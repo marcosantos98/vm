@@ -1,0 +1,4 @@
+push_u8 2
+push_u8 10
+div_u8
+println

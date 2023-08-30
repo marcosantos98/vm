@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+main
+vm
+build-all
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+*.o
+
+# Ignore binary output folders
+bin/
+
+# Ignore common editor/system specific metadata
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+vmc/vmc
+vmr/vmr
+
+tests/*.bin
+

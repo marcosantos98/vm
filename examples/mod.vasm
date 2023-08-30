@@ -1,0 +1,4 @@
+push_u8 3
+push_u8 3
+mod_u8
+println
